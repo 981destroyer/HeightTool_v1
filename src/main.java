@@ -5,8 +5,6 @@ import java.util.Scanner;
 public class main {
     static double maleChild;
     static double femaleChild;
-    double dadHeight;
-    double momHeight;
     static Scanner userInput = new Scanner(System.in);
     public static void main(String[] args) {
         //how tall is the dad?
